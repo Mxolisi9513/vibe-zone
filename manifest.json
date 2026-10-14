@@ -1,0 +1,18 @@
+
+{
+  "id": "./",
+  "name": "VIBE ZONE",
+  "short_name": "VIBE ZONE",
+  "description": "Discover music, movies, comedy, gaming and global entertainment.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090811",
+  "theme_color": "#090811",
+  "categories": [
+    "entertainment",
+    "music",
+    "videos"
+  ]
+}
